@@ -17,6 +17,10 @@ cd job
 # Install Supabase's auth-ui-react library
 npm install @supabase/supabase-js @supabase/auth-ui-react @supabase/auth-ui-shared
 
+# Update App.js to show the login
+
+# Run the server
+npm start
 ```
 
 
